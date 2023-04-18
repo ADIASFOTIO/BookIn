@@ -1,4 +1,4 @@
-package com.hufflepuff.generation.italy.BookIn.model.entities.data.abstractions;
+package com.hufflepuff.generation.italy.BookIn.model.data.abstractions;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 
